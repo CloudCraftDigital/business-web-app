@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌊 Aquarium Dream Web App
 
-# Run and deploy your AI Studio app
+Welcome to **Aquarium Dream** — a modern business web application built to bring the beauty of aquariums and decorative fish into the digital world. This app helps customers explore, purchase, and customize aquariums, fish, and related services with ease.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/c97bd332-2e54-4b3b-9f2c-a671ca55e089
+## ✨ What This App Offers
+- 🐠 **Fish Marketplace**: Browse and buy exotic and decorative fish.
+- 🏝️ **Aquarium Decor Services**: Order custom aquascaping and decorative setups.
+- 📊 **Business Dashboard**: Manage sales, inventory, and customer requests.
+- 🔐 **Secure User Accounts**: Authentication and role-based access.
+- 📦 **Service Booking**: Schedule aquarium maintenance or decoration services.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
+- **Frontend:** React / Next.js
+- **Backend:** Node.js / Express
+- **Database:** MongoDB / PostgreSQL
+- **Authentication:** JWT / OAuth2
+- **Deployment:** Docker, Kubernetes, Cloud (AWS/Azure/GCP)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Getting Started
+
+### Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/aquarium-dream-web-app.git
+cd aquarium-dream-web-app
+npm install
